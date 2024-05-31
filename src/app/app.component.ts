@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = '3d_printing_price_calculator';
+  title = 'cute pie ';
 }
